@@ -1,0 +1,5 @@
+The flashing process is done decreasing the read address
+Yes. Tried simply changing the basic program from:
+Load ""code
+To
+Load "" code 24576
